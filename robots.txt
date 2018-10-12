@@ -1,2 +1,2 @@
 User-agent: * 
-Disallow: / Changed line on iPad
+Disallow:Changed line on iPad
