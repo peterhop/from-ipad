@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Working Copy
 ============
 
@@ -25,3 +26,6 @@ If you have questions you can check out the [Users’ guide](https://workingcopy
 misbehaving or missing critical features write me at [anders@workingcopyapp.com](mailto:anders@workingcopyapp.com).
 
 Anders Borum
+=====
+Nothing to see here, move along please
+>>>>>>> master
